@@ -1,4 +1,3 @@
-USE cadenafarmacias;
 DROP TABLE IF EXISTS usuario;
 CREATE TABLE usuario(
     ID INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
